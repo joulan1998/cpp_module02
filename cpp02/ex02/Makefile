@@ -8,7 +8,7 @@ CPP				= c++
 RM				= rm -f
 CPPFLAGS		= -Wall -Wextra -Werror -std=c++98 -I.
 
-NAME			= Fixed
+NAME			= FixedProMax
 
 all:			$(NAME)
 
